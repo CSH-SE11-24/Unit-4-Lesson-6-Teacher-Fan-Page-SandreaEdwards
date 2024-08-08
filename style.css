@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#BnBimg{
+  height: auto;
+  width: 15vw;
+}
+.card{
+  height: auto;
+  width: 60 vw;
+  border-width: 2vw;
+  border-color: white;
+}
